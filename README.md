@@ -10,3 +10,6 @@
 
 
 ![image](https://user-images.githubusercontent.com/64268059/122684200-48a94400-d219-11eb-8326-684670b3d432.png)
+
+
+![lenna_enhancment](https://user-images.githubusercontent.com/64268059/124225824-53b77a80-db1d-11eb-9daf-179f1652ecb3.png)
